@@ -30,4 +30,3 @@ At Freddie Mac, I'm designing and building real-time loan ingestion pipelines us
 
 * **LinkedIn:** [https://www.linkedin.com/in/k-akamsha-reddy/](https://www.linkedin.com/in/k-akamsha-reddy/)
 * **Email:** akamshareddy2@outlook.com
-* 📞 214-218-9259
